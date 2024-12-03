@@ -18,3 +18,5 @@ orang2.tampilkan()
 # Mencetak atribut langsung dari objek
 print(f"Nama dari orang1: {orang1.name}, Usia: {orang1.age}")
 print(f"Nama dari orang2: {orang2.name}, Usia: {orang2.age}")
+
+echo "haloo";
